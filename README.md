@@ -24,4 +24,4 @@ I'm a passionate software developer and data scientist with a primary focus on w
 - **Email:** [ananty@iitbhilai.ac.in](mailto:ananty@iitbhilai.ac.in)
 - **LinkedIn:** [Anant Yadav](https://www.linkedin.com/in/anant-yadav-441807244/)
 - **GitHub:** [ananty1](https://github.com/ananty1)
-- **Portfolio:** [Anant Yadav](https://anant-yadav-5tfup.pyxl.ai/)
+- **Portfolio:** [Anant Yadav](https://anant-yadav-sde.vercel.app/)
