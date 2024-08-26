@@ -1,7 +1,6 @@
 # Hi there, I'm Anant Yadav 👋
 
 [![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananty1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananty1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌟 About Me
 
